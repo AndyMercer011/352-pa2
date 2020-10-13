@@ -1,0 +1,1 @@
+encrypt contains the thread method and the main method, the thread will keep looping to load char in and out through the given buffer space.
